@@ -302,6 +302,11 @@ footer h3 {
     font-size: 1.3em;
 }
 
+.footer-contato a {
+    color: #efefef;
+}
+
+
 .footer-contato a:visited {
     color: #efefef;
 }
@@ -397,6 +402,10 @@ footer h3 {
     main img {
         margin: auto;
     }
+    
+    .img-videocall {
+        margin-bottom: 50px;
+    }
 
     .img-coding {
         margin: 90px auto 30px auto;
@@ -422,9 +431,13 @@ footer h3 {
     }
     
     .fa-2x {
-        font-size: 2.5em;
+        font-size: 2em;
     }
-
+    
+    .beneficios ul li {
+        font-size: 0.9em;
+    }
+    
     .entrar-em-contato {
         padding-top: 40px;
         margin: auto;
